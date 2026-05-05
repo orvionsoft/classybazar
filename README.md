@@ -2,7 +2,7 @@
 
 ## Website Screenshot
 
-![Homepage](public/preview.png.png)
+![Homepage](public/preview.png)
 
 # ============================================
 # CLASSYBAZAR - COMPLETE RENAME SCRIPT
