@@ -1,0 +1,1 @@
+<?php echo e(Cart::instance('shopping')->count()); ?><?php /**PATH /home/orvionso/orvionshop3.orvionsoft.com/resources/views/frontEnd/layouts/ajax/mobilecart_qty.blade.php ENDPATH**/ ?>
