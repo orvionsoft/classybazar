@@ -1,4 +1,8 @@
-#!/bin/bash
+# CLASSYBAZAR
+
+## Website Screenshot
+
+![Homepage](public/preview.png.png)
 
 # ============================================
 # CLASSYBAZAR - COMPLETE RENAME SCRIPT
